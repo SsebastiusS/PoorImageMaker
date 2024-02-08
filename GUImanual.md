@@ -1,7 +1,7 @@
 ## GUI manual
 
 ### Step 1: Launch the Application 
-Start the .exe file to start the tool.
+Start the PoorImageMerger.exe file to start the tool.
 
 
 ### Step 2: Select Directory with Images to merge
