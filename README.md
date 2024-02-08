@@ -26,7 +26,7 @@ The CLI version allows bulk merging of multiple directories and subdirectories, 
        3.png 
        4.png
        ```
-       And 1x4 would merge in a single row
+     - And 1x4 would merge in a single row
        ```
        1.png, 2.png, 3.png, and 4.png
        ```
