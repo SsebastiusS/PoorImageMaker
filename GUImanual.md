@@ -7,7 +7,7 @@ Start the PoorImageMerger.exe file to start the tool.
 ### Step 2: Select Directory with Images to merge
 
 1. Launch the application.
-2. On the main screen, you will find a textbox labeled "Directory Path" and a "Browse" button next to it.
+2. On the main screen, you will find a textbox labeled "Directory" and a "Browse" button next to it.
 3. You can manually type the directory path in the textbox or click the "Browse" button to select the directory using a file dialog.
 
    #### Manual Entry:
