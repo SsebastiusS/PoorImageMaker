@@ -45,4 +45,5 @@ ifferent file extensions in the same directory might lead to sorting issues on c
 [GUI Manual](GUImanual.md)
 [CLI Manual](CLImanual.md)
 
-## [Download](https://cdn.discordapp.com/attachments/1204872273685774356/1205127798713491476/PoorImageMerger.zip)
+[![Download](https://img.shields.io/badge/Download-PoorImageMerger-blue.svg)](https://cdn.discordapp.com/attachments/1204872273685774356/1205127798713491476/PoorImageMerger.zip)
+
