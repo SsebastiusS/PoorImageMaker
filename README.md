@@ -9,7 +9,7 @@ This program offers both a Graphical User Interface (GUI) version and a Command 
 The CLI version allows bulk merging of multiple directories and subdirectories, offering batch processing of images.
 
 
-# [Download](https://drive.google.com/file/d/1B5x5GfUN5tf2D-AkvgeHri2n1xbDlT4Y/view)
+# [Download](https://github.com/SsebastiusS/PoorImageMerger/archive/refs/tags/ImageMerger.zip)
 
 
 ## Grid Merge logic
