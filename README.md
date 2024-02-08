@@ -11,6 +11,7 @@ The CLI version allows bulk merging of multiple directories and subdirectories, 
 
 # [Download](https://github.com/SsebastiusS/PoorImageMerger/releases/download/v1.0/PoorImageMerger_v1.zip)
 
+Some browser might think the .zip is malware/unwanted software as it's self-signed so be aware of it.
 
 ## Grid Merge logic
 
