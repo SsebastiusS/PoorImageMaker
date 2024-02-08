@@ -17,22 +17,21 @@ The CLI version allows bulk merging of multiple directories and subdirectories, 
 The sorted images are placed next to each other in a grid based on the specified format (RowsxColumns)
 
 For example, with files 1.png, 2.png, 3.png, and 4.png:
-     - A grid setting of 2x2 would merge them as follows:
-       ```
-       1.png  2.png
-       3.png  4.png
-       ```
-     - A grid setting of 4x1 would merge them in a single column:
-       ```
-       1.png  
-       2.png 
-       3.png 
-       4.png
-       ```
-     - And 1x4 would merge in a single row
-       ```
-       1.png, 2.png, 3.png, and 4.png
-       ```
+
+- A grid setting of 2x2 would merge them as follows:
+  - 1.png  2.png
+  - 3.png  4.png
+
+- A grid setting of 4x1 would merge them in a single column:
+  - 1.png  
+  - 2.png 
+  - 3.png 
+  - 4.png
+
+- And 1x4 would merge in a single row:
+  - 1.png, 2.png, 3.png, and 4.png
+
+       
 
 This logic allows you to control how your images are arranged in the merged result. Simply set the grid format according to your preference, and the images will be combined accordingly.
 
