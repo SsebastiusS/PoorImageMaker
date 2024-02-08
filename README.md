@@ -8,8 +8,6 @@ This program offers both a Graphical User Interface (GUI) version and a Command 
 
 The CLI version allows bulk merging of multiple directories and subdirectories, offering batch processing of images.
 
-# [Download](https://cdn.discordapp.com/attachments/1204872273685774356/1205127798713491476/PoorImageMerger.zip)
-
 ## Grid Merge logic
 
    - The sorted images are placed next to each other in a grid based on the specified format (RowsxColumns)
@@ -26,7 +24,7 @@ The CLI version allows bulk merging of multiple directories and subdirectories, 
        3.png 
        4.png
        ```
-     - And 1x4 would merge in a single row
+       And 1x4 would merge in a single row
        ```
        1.png, 2.png, 3.png, and 4.png
        ```
@@ -46,3 +44,5 @@ ifferent file extensions in the same directory might lead to sorting issues on c
 ## Manuals
 [GUI Manual](GUImanual.md)
 [CLI Manual](CLImanual.md)
+
+## [Download](https://cdn.discordapp.com/attachments/1204872273685774356/1205127798713491476/PoorImageMerger.zip)
