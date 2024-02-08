@@ -14,8 +14,9 @@ The CLI version allows bulk merging of multiple directories and subdirectories, 
 
 ## Grid Merge logic
 
-   - The sorted images are placed next to each other in a grid based on the specified format (RowsxColumns)
-   - For example, with files 1.png, 2.png, 3.png, and 4.png:
+The sorted images are placed next to each other in a grid based on the specified format (RowsxColumns)
+
+For example, with files 1.png, 2.png, 3.png, and 4.png:
      - A grid setting of 2x2 would merge them as follows:
        ```
        1.png  2.png
