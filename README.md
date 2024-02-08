@@ -42,8 +42,10 @@ The application supports the following file types: PNG, JPG, JPEG, and WebP.
 ## Notes
 
 The application automatically sorts images based on their filenames, so ensure proper numbering for accurate merging.
+
 If you encounter any issues or have further questions, contact sebastius on discord.
-ifferent file extensions in the same directory might lead to sorting issues on certain non-Windows OS.
+
+Different file extensions in the same directory might lead to sorting issues on certain non-Windows OS.
 
 ## Manuals
 [GUI Manual](GUImanual.md)
