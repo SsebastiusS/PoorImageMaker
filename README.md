@@ -46,7 +46,9 @@ The application automatically sorts images based on their filenames, so ensure p
 
 If you encounter any issues or have further questions, contact sebastius on discord.
 
-Different file extensions in the same directory might lead to sorting issues on certain non-Windows OS.
+Different file extensions in the same directory might lead to sorting issues on some non-Windows OS.
+
+On Linux/MacOS you will need some way of running *.exe files to use the tool.
 
 ## Manuals
 [GUI Manual](GUImanual.md)
