@@ -95,6 +95,7 @@ def clear_if_default(event):
 # tk
 root = Tk()
 root.title("PoorImageMerger")
+root.resizable(False,False)
 
 # Wybieranie folderu
 folder_label = Label(root, text="Directory")
