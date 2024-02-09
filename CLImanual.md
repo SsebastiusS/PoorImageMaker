@@ -4,11 +4,11 @@
 Open the Command Prompt on Windows or Terminal on macOS/Linux.
 
 ### Step  2: Navigate to the Directory Containing the Executable
-Use the `cd` command to navigate to the directory where your `pim-cmd.exe` (Windows) or `pim-cmd` (Linux) executable is located.
+Use the `cd` command to navigate to the directory where your `pimcli.exe` executable is located.
 
 Example:
 ```
-bash cd /path/to/your/executable
+cd /path/to/your/executable
 ```
 
 ### Step  3: Run the Executable with Required Arguments
@@ -17,12 +17,6 @@ Run the executable with the `-i` flag followed by the directory path containing 
 Example:
 ```
 pim-cmd.exe -i "C:\Users\YourName\Images" -g 3x4
-```
-
-Or on Linux:
-```
-pim-cmd -i "/home/username/Images" -g 3x4
-
 ```
 
 #### Flags:
@@ -40,4 +34,4 @@ After the process is complete, the merged image will be saved as 'MergedOutput.p
 ### Additional Notes:
 Ensure that the grid size matches the number of images in the directory. Otherwise, the merged image may contain empty tiles or skip some images.
 Use quotes around paths that contain spaces to avoid errors.
-On Linux, you may need to give the executable permission to run using the `chmod +x pim-cmd` command before you can execute it.
+On Linux, outside of needing wine or other means of running *.exe files you may need to give the executable permission to run using the `chmod +x pimcli` command before you can execute it.
